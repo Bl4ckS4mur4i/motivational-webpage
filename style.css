@@ -1,0 +1,51 @@
+/* Stylesheet for Motivational Website */
+
+html {
+    background-color: black;
+}
+
+.text {
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Libre Baskerville', serif;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-family: 'Silkscreen', sans-serif;
+}
+
+h3 {
+    font-size: small;
+}
+
+#mainImg {
+    border: 5px solid white;
+    width: 100%;
+}
+
+#mainDiv {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 75px;
+}
+
+#mainP {
+    /* text-align: center; */
+    margin: 0px;
+}
+
+#footerP {
+    color: white;
+    margin: 0px;
+    text-align: center;
+    width: 100%;
+}
+
+hr {
+    width: 100%;
+    margin-top: 10%;
+}
